@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Home</title>
+    <link>https://pramodyadav11.github.io/portf/project/</link>
+    <description>Recent content in Projects on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 May 2021 11:30:13 +0530</lastBuildDate><atom:link href="https://pramodyadav11.github.io/portf/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Example1 project with details</title>
+      <link>https://pramodyadav11.github.io/portf/project/example/</link>
+      <pubDate>Tue, 04 May 2021 11:30:13 +0530</pubDate>
+      
+      <guid>https://pramodyadav11.github.io/portf/project/example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example2 project</title>
+      <link>https://pramodyadav11.github.io/portf/project/example2/</link>
+      <pubDate>Tue, 04 May 2021 11:30:13 +0530</pubDate>
+      
+      <guid>https://pramodyadav11.github.io/portf/project/example2/</guid>
+      <description>hi here will be project details example2</description>
+    </item>
+    
+  </channel>
+</rss>
